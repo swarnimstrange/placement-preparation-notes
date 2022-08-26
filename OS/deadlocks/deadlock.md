@@ -3,6 +3,7 @@
 -> Deadlock is a situation where a set of processes are are blocked because each process is holding a resource and waiting for some other resource aquired by another process.
 
 -> for eg 
+
               r1
         (A) /    \ (D)
            p1     p2
