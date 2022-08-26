@@ -31,5 +31,5 @@
 
 - Resource preemption
 
--> Rollback
+-> Rollback </br>
 -> Selecting a victim
