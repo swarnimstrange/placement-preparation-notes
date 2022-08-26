@@ -1,6 +1,6 @@
 # placement-preparation-notes
 
-<h2> Notes that I prepared for my placement </h2>
+<h2> Notes that I prepared for my placement preparation </h2>
 
 - It contains core cs subject notes
   - Data Structures and Algorithms (Codes in Python)
