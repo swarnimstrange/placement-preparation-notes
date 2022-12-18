@@ -3,7 +3,7 @@
 -> for solving critical section problem it should follow 3 criterions
 - mutual exclusion -> if one process has entered the critical section then other process cannot enter critical section.
 - progress -> only compete between processes that want to use critical section.
-- bounded wait -> there should be specific time limit for how much time a process can wait, it shouldn't be like it has been waiting for indefinite amount of time. ( Shouln't be a problem of Sarvation )
+- bounded wait -> there should be specific time limit for how much time a process can wait, it shouldn't be like it has been waiting for indefinite amount of time. ( Shouldn't be a problem of Sarvation )
 
 <h3> Semaphore </h3>
 
