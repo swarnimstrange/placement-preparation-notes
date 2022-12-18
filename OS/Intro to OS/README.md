@@ -9,9 +9,12 @@
 
 - <b> Batch-processing operating system. </b> -> similar kinds of job batches are provided to operator ( next job doest'nt get executed until first one is finished. this was used in earlier days of computer system.)
 
-- <b> Multiprogramming operating system. </b> -> increases CPU utilization by keeping multiple jobs (code and data) in the memory so that the CPU always has one to execute
+- <b> Multiprogramming operating system. </b> 
+  - increases CPU utilization by keeping multiple jobs (code and data) in the memory so that the CPU always has one to execute
+  - The idea is to keep multiple jobs in main memory. If one job gets occupied with IO, CPU can be assigned to other job. 
 
-- <b> Multitasking operating system. </b> -> Multitasking is a logical extension of multiprogramming. CPU executes multiple tasks by switching among them. The switching is very fast. Response time should be minimal. 
+- <b> Multitasking operating system. </b> -> 
+  - Multitasking is a logical extension of multiprogramming. CPU executes multiple tasks by switching among them. The switching is very fast. Response time should be minimal. 
 
 <h3> System Call </h3>
 
