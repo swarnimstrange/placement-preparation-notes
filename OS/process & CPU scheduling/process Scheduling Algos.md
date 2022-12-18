@@ -10,7 +10,7 @@
 
 <h3> non-preemptive </h3>
 
-- this is the type of algorithm where processes cannot be changedin between from ready-state to running state.
+- this is the type of algorithm where processes cannot be changed in between from ready-state to running state.
 
 - the type of non-preemptive algorithms are:
   - First come first serve (FCFS) -: as the name suggest the process that got in first will be executed first and so on.
