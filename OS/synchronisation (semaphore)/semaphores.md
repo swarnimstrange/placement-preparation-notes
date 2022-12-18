@@ -7,26 +7,32 @@
 
 <h3> Semaphore </h3>
 
--> A semaphore is an integer variable that solves the problem of critical section problem and after initialisation, it can be accessed only through two atomic operations called wait() and signal().
+- A semaphore is an integer variable that solves the problem of critical section problem and after initialisation, it can be accessed only through two atomic operations called wait() and signal().
 
--> wait() -> if the value of semaphore is more than one then it decreases its values and if it's zero then it gets stuck in a while loop.
+- wait() -> if the value of semaphore is more than one then it decreases its values and if it's zero then it gets stuck in a while loop.
 
-->  wait(s){
+<pre>
+  wait(s){
         while(s<=0){}
         s--;
     }
+</pre>
 
--> signal() -> it increases semaphore value with 1
+- signal() -> it increases semaphore value with 1
 
-->  signal(s){
+<pre>
+signal(s){
         s++;
     }
+</pre>
 
 <h3> Solving CS problem using semaphore </h3>
 
--> do {
+<pre>
+do {
     wait(s);
     // if p1 is there then p2 has to wait
     signal(s);
     // when p1 has finished work p1 will signal that now any process can enter critical section
 }(while(true))
+</pre>
