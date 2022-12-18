@@ -1,6 +1,6 @@
 <h3> Race Condition </h3>
 
-- there is a condition that occurs when multiple processes are using or sharing same resources. this ead to irrelevant modificaion or deadlock of proocesses.
+- there is a condition that occurs when multiple processes are using or sharing same resources. this lead to irrelevant modificaion or deadlock of proocesses.
 
 - that's why we use process synchrniation to handle the race condition.
 
