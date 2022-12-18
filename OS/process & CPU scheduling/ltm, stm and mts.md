@@ -1,17 +1,17 @@
 <h3> long-term scheduler (job scheduler) </h3>
 
--> it takes the processes from creation state and put it into ready state to be executed.
--> more formally, it selects processes from those submitted by the user and loads them into the memory.
+- it takes the processes from creation state and put it into ready state to be executed.
+- more formally, it selects processes from those submitted by the user and loads them into the memory.
 
 <h3> short-term scheduler (CPU scheduler) </h3>
 
--> it takes the program from ready state and puts it to the running state using some scheduling algorithms.
--> ore formally, it selects one of the processes in the memory and allocates the CPU to it.
+- it takes the program from ready state and puts it to the running state using some scheduling algorithms.
+- more formally, it selects one of the processes in the memory and allocates the CPU to it.
 
 <h3> middle-term scheduler </h3>
 
--> if any process requires to do some I/O operation during its running state then mts removes that prcess from running state to waiting state.
--> removes processes from the memory and from the competition for the CPU, thus reducing the degree of multiprogramming.
+- if any process requires to do some I/O operation during its running state then mts removes that process from running state to waiting state.
+- removes processes from the memory and from the competition for the CPU, thus reducing the degree of multiprogramming.
 
 <h3> What is the zombie process? </h3>
 
