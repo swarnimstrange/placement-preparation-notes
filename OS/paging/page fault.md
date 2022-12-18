@@ -6,10 +6,10 @@
 
 <h3> Thrasing </h3>
 
--> Thrashing occurs when a system spends more time processing page faults than executing transactions.
+- Thrashing occurs when a system spends more time processing page faults than executing transactions.
 
--> While processing page faults is necessary in order to appreciate the benefits of virtual memory, thrashing has a negative effect on the system
+- While processing page faults is necessary in order to appreciate the benefits of virtual memory, thrashing has a negative effect on the system
 
 <h3> Belady’s Anomaly </h3>
 
--> Belady’s Anomaly is the phenomenon of increasing the number of page faults on increasing the number of frames in main memory.
+- Belady’s Anomaly is the phenomenon of increasing the number of page faults on increasing the number of frames in main memory.
