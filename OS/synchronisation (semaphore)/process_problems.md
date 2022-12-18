@@ -27,12 +27,12 @@ common variables and files
 
 - so only two person can eat at one time out of 5 processes.
 
-->                        p2  
+<pre> 
+                          p2  
                       -       -
                   -              p3 
                p1         R           -
                   -               p4
                       -        -
                           p5
-
-
+</pre>
