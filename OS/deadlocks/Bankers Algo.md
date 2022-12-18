@@ -6,4 +6,4 @@
 
 - In bankers algorithm, the processes which want to get resources from os have to already define the no of resources they want and currently no of resources they have.
 
-- suppose process one comes in and its already using some resources and demands lots of reources and os doesn't have that many resources avaiable at the moment. And suppose second process comes in and its using several resources and demands fewer one that the os can allocate, so os allocates it the resources and when the process terminates it takes the resouces that were allocated before by os and also the resourcesthat it was already using, and now it can satisfy the need of older process.
+- suppose process one comes in and its already using some resources and demands lots of reources and os doesn't have that many resources avaiable at the moment. And suppose second process comes in and its using several resources and demands fewer one that the os can allocate, so os allocates it the resources and when the process terminates it takes the resouces that were allocated before by os and also the resources that it was already using, and now it can satisfy the need of older process.
