@@ -30,7 +30,7 @@
 
 - there can be multiple threads within a process, whereas process is just one.
 - processes have separate address spaces, whereas threads share their address space
--> multiple threads use the same code section, data section, and OS resources but different processes use different cs, ds and os resources.
--> A thread has its own program counter (PC), a register set, and a stack space.
--> threads are easy and quick to make. where making new processes take resources
--> threads are called lightweight processes.
+- multiple threads use the same code section, data section, and OS resources but different processes use different cs, ds and os resources.
+- A thread has its own program counter (PC), a register set, and a stack space.
+- threads are easy and quick to make. where making new processes take resources
+- threads are called lightweight processes.
