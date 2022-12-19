@@ -9,10 +9,8 @@
 <h3> How Abstraction is achieved ? </h3>
 
 - <b> Abstraction is achieved in 2 ways -: </b>
-<ul> 
-<li> Abstract class </li>
-<li> Interfaces (Pure Abstraction) </li>
-</ul>
+  - Abstract class
+  - Interfaces (Pure Abstraction)
 
 <h3> Abstract Class </h3>
 <ul>
