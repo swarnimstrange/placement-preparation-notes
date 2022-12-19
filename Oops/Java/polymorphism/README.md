@@ -5,6 +5,7 @@
 <h3> Types of Polymorphism </h3>
 
 - There are two types of polymorphism
+
  - Compiletime polymorphism.
  - Runtime Polymorphism.
 
