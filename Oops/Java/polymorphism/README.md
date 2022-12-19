@@ -16,11 +16,11 @@
 
  <b> Method Overloading <b> is a technique which allows you to have more than one function with the same function name but with different functionality. Method overloading can be possible on the following basis: 
 
-<li> The type of the parameters passed to the function. </li> 
-for example String for first function, Int for second etc. 
+- The type of the parameters passed to the function. 
+ - for example String for first function, Int for second etc. 
 
-<li> The number of parameters passed to the function. </li> 
-for example first is just String, second is both String and Int etc.
+- The number of parameters passed to the function.
+ - for example first is just String, second is both String and Int etc.
 
-<li> Different return type </li>
-for example frst function return type is string so secod return type should be int etc.
+- Different return type
+ - for example frst function return type is string so secod return type should be int etc.
