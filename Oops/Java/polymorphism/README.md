@@ -5,9 +5,8 @@
 <h3> Types of Polymorphism </h3>
 
 - There are two types of polymorphism
-
- - Compiletime polymorphism.
- - Runtime Polymorphism.
+  - Compiletime polymorphism.
+  - Runtime Polymorphism.
 
 <h3> CompileTime Polymorphism </h3>
 
@@ -18,10 +17,10 @@
  <b> Method Overloading <b> is a technique which allows you to have more than one function with the same function name but with different functionality. Method overloading can be possible on the following basis: 
 
 - The type of the parameters passed to the function. 
- - for example String for first function, Int for second etc. 
+  - for example String for first function, Int for second etc. 
 
 - The number of parameters passed to the function.
- - for example first is just String, second is both String and Int etc.
+  - for example first is just String, second is both String and Int etc.
 
 - Different return type
- - for example frst function return type is string so secod return type should be int etc.
+  - for example frst function return type is string so secod return type should be int etc.
